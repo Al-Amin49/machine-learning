@@ -1,0 +1,2 @@
+- confusion matrix and related math (specially making the confusing matrix table)
+- base rate effect
